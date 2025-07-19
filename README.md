@@ -26,4 +26,4 @@ It’s the perfect solution for launching an engaging, feature-rich online casin
 
 ---
 
-For more details, visit the [CodeCanyon product page](https://codecanyon.net/item/xaxino-ultimate-casino-platform/).
+For more details, visit the [CodeCanyon product page](https://codecanyon.net/item/xaxino-ultimate-casino-platform/34885455).
