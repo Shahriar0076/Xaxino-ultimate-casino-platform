@@ -22,7 +22,7 @@ It’s the perfect solution for launching an engaging, feature-rich online casin
 -   ✅ Referral system & configurable user bonuses
 -   ✅ SEO content management & Google Analytics integration
 -   ✅ Built-in maintenance mode & automatic updates
--   ✅ Detailed documentation & dedicated support 
+-   ✅ Detailed documentation & dedicated support
 
 ---
 
